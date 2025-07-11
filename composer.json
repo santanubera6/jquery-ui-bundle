@@ -1,0 +1,20 @@
+{
+    "name": "bmatzner/jquery-ui-bundle",
+    "type": "symfony-bundle",
+    "description": "jQuery UI integration for Symfony",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Matzner",
+            "email": "bmatzner@example.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Bmatzner\JQueryUIBundle": ""
+        }
+    },
+    "require": {
+        "php": ">=5.3.2"
+    }
+}
